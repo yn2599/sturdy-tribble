@@ -17,7 +17,7 @@ assets, styles, index.html.
 <br />
 
 <p align="center">
-    <img align="center"  src="assets/formulario.png" alt="Formulário"/>
+    <img align="center"  src="assets/icons/loja" alt="Formulário"/>
 </p>
 
 <!--END_SECTION:footer-->
